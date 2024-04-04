@@ -9,7 +9,7 @@ En orden de más a menos activas:
 
 ![linkedin-logo](https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a) [linkedin.com/in/mateorestrepo](https://www.linkedin.com/in/mateorestrepo/)
 
-![github-logo](https://github.githubassets.com/favicons/favicon.png)  [github.com/cuckookernel](https://www.linkedin.com/in/mateorestrepo/)
+![github-logo](https://github.githubassets.com/favicons/favicon.png)  [github.com/cuckookernel](https://www.github.com/cuckookernel)
 
 ![medium-logo](https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png) [medium.com/@mateini_12893](https://medium.com/@mateini_12893)
 
