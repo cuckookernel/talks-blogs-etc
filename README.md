@@ -15,7 +15,7 @@ En orden de más a menos activas:
 
 ![twitter-logo](https://abs.twimg.com/favicons/twitter.3.ico) [@cuckookernel](https://twitter.com/cuckookernel)
 
-## Charlas
+# Charlas
 
 2024.04 - Ciclo de dos charlas sobre IA en Hash House Club - Medellín
 

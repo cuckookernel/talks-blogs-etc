@@ -1,6 +1,6 @@
 ## Presentación
 
-- [Carpeta en Google Drive](https://drive.google.com/drive/folders/1fKSlxgVfdiRcj1oZaS8c7ZqC0BuK7V-J?usp=sharing), para visualizar descargar y abrir cualquiera de los dos archivos terminados en `.html`. Para mejor visualización ajustar la ventana de la presentación, a proporciones 4:3.
+- [Carpeta en Google Drive](https://drive.google.com/drive/folders/1fKSlxgVfdiRcj1oZaS8c7ZqC0BuK7V-J?usp=sharing), para visualizar descargar y abrir cualquiera de los dos archivos terminados en `.html`. Para mejor visualización, ajustar la ventana de la presentación a proporciones 4:3.
 
 
 ### Sobre ML
@@ -28,8 +28,11 @@ Libros:
 
 - Cursos cortos de DeepLearning.ai [Catalog Page](https://www.deeplearning.ai/short-courses/)
 
+- [Krohn, Jon - Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694)
+
 
 ## Sobre Transformers y LLMs
 
 - [The illustrated transfomer]() 
 - [What is ChatGPT and why does it work? - Por Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [Transformers for Natural Language Processing and Computer vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728)
