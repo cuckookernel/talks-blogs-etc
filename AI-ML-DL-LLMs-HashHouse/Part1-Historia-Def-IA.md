@@ -1,6 +1,6 @@
 ## Presentación
 
-- [Carpeta en Google Drive](https://drive.google.com/drive/folders/1-X9EaskcVCKyuIVxyNFDbDKjffSwxE-q?usp=sharing), para visualizar descargar y abrir cualquiera de los dos archivos terminados en `.html`. Para mejor visualización ajustar la ventana de la presentación, a proporciones 4:3.
+- [Carpeta en Google Drive](https://drive.google.com/drive/folders/1croe3KdClyEuTRCdYYniB2A7UkZILR6S?usp=sharing), para visualizar descargar y abrir cualquiera de los dos archivos terminados en `.html`. Para mejor visualización ajustar la ventana de la presentación, a proporciones 4:3.
 
 
 ## Algunas Referencias

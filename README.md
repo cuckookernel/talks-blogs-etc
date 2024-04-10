@@ -20,7 +20,7 @@ En orden de más a menos activas:
 2024.04 - Ciclo de dos charlas sobre IA en Hash House Club - Medellín
 
 - [Parte 1](AI-ML-DL-LLMs-HashHouse/Part1-Historia-Def-IA.md): Sobre historia y definición de la Inteligencia Artificial (IA) 
-- Parte 2: Campos de la IA y diferencias con Machine Learning (ML), Deep Learning (DL)  
+- [Parte 2:](AI-ML-DL-LLMs-HashHouse/Part2-AI-ML-DL-etc.md) Campos de la IA y diferencias con Machine Learning (ML), Deep Learning (DL) y transformers.  
 
 2022.04.12 **Computación Vectorizada**
 
