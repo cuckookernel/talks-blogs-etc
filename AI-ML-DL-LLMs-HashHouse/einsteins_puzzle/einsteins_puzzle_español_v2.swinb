@@ -1,0 +1,57 @@
+<div class="notebook">
+
+<div class="nb-cell program" name="p1">
+% pall_mall: the_boys 
+% blue_master: breaking_bad
+% dunhill: dexter
+% blends: patron_del_mal
+% prince: westworld
+
+casas(Hs) :-
+	% cada casa en la lista se representa por una tupla
+	%      h(nacionalidad, mascota, serie de TV, bebida, color_de_casa)
+	length(Hs, 5),                                            %  0
+	member(h(brasilero , _,_,_, roja), Hs),                   %  1
+	member(h(venezolano, perro, _, _, _), Hs),                %  2
+    member(h(equatoriano, _, _, té, _), Hs),                  %  3
+    Hs = [h(peruana,_,_,_,_)|_],                              %  4	
+	member(h(colombiana,_, westworld,_,_), Hs),               %  5
+	next(h(_,_,_,_, verde), h(_,_,_,_, blanca), Hs),          %  6
+	member(h(_,_,_, café, verde), Hs),                        %  7
+	member(h(_,pájaros, the_boys,_,_), Hs),                   %  8	
+    member(h(_,_, dexter,_,amarilla), Hs),                    %  9
+	Hs = [_,_,h(_,_,_,leche,_),_,_],                          % 10
+    next(h(_,_,patron_del_mal ,_,_), h(_,gato   ,_,_,_), Hs), % 11    
+    next(h(_,_,dexter,_,_), h(_,caballo,_,_,_), Hs),          % 12
+	member(h(_,_, breaking_bad,cerveza,_), Hs),               % 13
+	next(h(_,_,patron_del_mal ,_,_), h(_,_,_,agua, _), Hs),   % 14    
+	next(h(peruana,_,_,_,_), h(_,_,_,_,azul), Hs),            % 15	
+	member(h(_,pez,_,_,_), Hs).		    %  16. alguno tiene un pez
+
+next(A, B, Ls) :- append(_, [A,B|_], Ls).
+next(A, B, Ls) :- append(_, [B,A|_], Ls).
+
+duenho_de_pez(Duenho) :-
+	casas(Hs),
+	member(h(Duenho,pez,_,_,_), Hs).
+
+% formato bonito para la solucion
+:- use_rendering(table,
+		 [header(h('Nacionalidad', 'Mascota', 'Series de TV', 'Bebida', 'Color de la Casa'))]).
+
+
+
+</div>
+
+<div class="nb-cell query" data-tabled="true" name="q1">
+% casas(Hs).
+duenho_de_pez(Duenho).
+
+
+</div>
+
+<div class="nb-cell query" name="q2">
+
+</div>
+
+</div>

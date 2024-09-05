@@ -1,0 +1,24 @@
+En una calle hay cinco casas, cada una de un color distinto. 
+En cada casa vive una persona de distinta nacionalidad. 
+Cada dueño bebe un único tipo de bebida,
+ve una sola Serie de TV y tiene una mascota diferente a sus vecinos.  
+
+1. El brasilero vive en la casa roja.
+2. El venezolano tiene un perro como mascota.
+3. El equatoriano toma té.
+4. La peruana vive en la primera casa.
+5. La colombiana ve "Westworld".
+6. La casa verde está inmediatamente a la izquierda de la blanca
+7. El dueño de la casa verde bebe café.
+8. El propietario que ve "The Boys" cría pájaros.
+9. El dueño de la casa amarilla ve "Dexter".
+10. El hombre que vive en la casa del centro bebe leche.
+11. El vecino que ve "El Patrón del Mal" vive al lado del que tiene un gato.
+12. El hombre que tiene un caballo vive al lado del que ve "Dexter".
+13. El propietario que ve "Breaking Bad" toma cerveza.
+14. El vecino que ve el "Patrón del Mal" vive al lado del que toma agua.
+15. La peruana vive al lado de la casa azul.
+
+Pregunta a responder:
+¿Quién es el dueño del pez?
+

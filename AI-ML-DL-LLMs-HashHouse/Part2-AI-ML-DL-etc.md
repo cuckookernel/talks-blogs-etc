@@ -21,6 +21,8 @@ Libros:
 
 ## Sobre Deep Learning
 
+- [Tensorflow playground](https://playground.tensorflow.org) Entrenar una red neuronal FF interactivamente.
+
 - MOOCs de Fast.ai
   - [Practical Deep Learning](https://course.fast.ai/)
   - [Part 2: Deep Learning from the Foundations (v3 - 2019)](https://course19.fast.ai/part2)
@@ -36,3 +38,4 @@ Libros:
 - [The illustrated transfomer]() 
 - [What is ChatGPT and why does it work? - Por Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 - [Transformers for Natural Language Processing and Computer vision](https://www.amazon.com/Transformers-Natural-Language-Processing-Computer/dp/1805128728)
+- [Raschka, Sebastian - Build a Large Language Model from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
