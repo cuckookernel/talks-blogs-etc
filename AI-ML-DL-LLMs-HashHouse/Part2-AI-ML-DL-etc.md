@@ -2,7 +2,7 @@
 
 - [Carpeta en Google Drive](https://drive.google.com/drive/folders/1fKSlxgVfdiRcj1oZaS8c7ZqC0BuK7V-J?usp=sharing), para visualizar descargar y abrir cualquiera de los dos archivos terminados en `.html`. Para mejor visualización, ajustar la ventana de la presentación a proporciones 4:3.
 
-## Chat GPT failures:
+## Chat GPT failures: 
 
 - [How many "r"s in Strawberry - Failed](https://chatgpt.com/share/66ea357d-5664-8001-a1a8-16ac5801c244)
 - [Acertijo del río, lobo, cabra y col - OK.](https://chatgpt.com/share/66ea2b32-9a88-8001-82bd-3c92e2145369)
